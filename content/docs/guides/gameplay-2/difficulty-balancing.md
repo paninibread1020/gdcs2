@@ -19,3 +19,5 @@ description: This guide explains what factors help contribute to the difficulty
 {{< callout context="danger" title="This guide is a stub." icon="outline/alert-triangle" >}}
 A stub is a guide that is too short and is deemed incomplete. You can help make this guide better by **[contributing to it.](https://www.gdcreatorschool.com/contributing/contributing-guide/)**
 {{< /callout >}}
+
+## 1. What is Difficulty and Balancing?
