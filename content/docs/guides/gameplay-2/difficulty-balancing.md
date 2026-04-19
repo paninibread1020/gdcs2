@@ -1,8 +1,8 @@
 ---
 draft: true
 title: Difficulty & Balancing
-date: 2026-04-02
 weight: 7220
+date: 2026-04-02
 description: This guide explains what factors help contribute to the difficulty
   of a level, for example mechanical difficulty, timing, length, and learniness.
   Also goes over ways you can balance your level.
@@ -38,4 +38,4 @@ Mechanical Difficulty is the difficulty of performing mechanics in your level. T
 Timing is the amount of time you have to preform an input. Usually, the shorter time you have, the harder the input is. You've probably heard of the term "frame perfect" before. This is a term used to describe a timing that you have a very short amount of time to perform, thus making the timing very hard. Timings can be part of Mechanical Difficulty because in order to use a mechanic you must perform a timing.
 
 #### Length
-Length is the amount of time the player has to be continuously performing inputs. For example, a 10 *second* long level with incredibly hard timings would be **easier** than a 10 *minute* long level with medium difficulty timings simply because the player might be more tired when performing inputs in a 10 minute long level.
+Length is the amount of time the player has to be continuously performing inputs. For example, a 10 *second* long level with incredibly hard timings would be **easier** than a 10 *minute* long level also with super hard timings simply because the player might be more tired when performing inputs in a 10 minute long level.
